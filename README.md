@@ -1,5 +1,8 @@
 # ChatGPT Micro-Cap Experiment
-Welcome to the repo behind my 6-month live trading experiment where ChatGPT manages a real-money micro-cap portfolio.
+## 🤖 Assistance
+
+Ce projet a été guidé avec l’aide de Microsoft Copilot, un compagnon IA pour l’inspiration, les conseils techniques et les petites touches de clarté !
+
 
 # The Concept
 Everyday, I kept seeing the same ad about having an some A.I. pick undervalued stocks. It was obvious it was trying to get me to subscribe to some garbage, so I just rolled my eyes. 
